@@ -1,0 +1,348 @@
+﻿[CustomCards]
+	[	{
+			"name": "Siegebreaker Prototype",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/14_Siegebreaker Prototype.png"
+			}
+		},
+		{
+			"name": "Persistent Smog",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/11_Persistent Smog.png"
+			}
+		},
+		{
+			"name": "Desperate Widow",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/28_Desperate Widow.png"
+			}
+		},
+		{
+			"name": "Nagging Omen",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/10_Nagging Omen.png"
+			}
+		},
+		{
+			"name": "Doldrums Sprite",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Faerie Warlock ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/9_Doldrums Sprite.png"
+			}
+		},
+		{
+			"name": "Volatile Coating",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/24_Volatile Coating.png"
+			}
+		},
+		{
+			"name": "Watering Hole",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/25_Watering Hole.png"
+			}
+		},
+		{
+			"name": "Eccentric Vendor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/7_Eccentric Vendor.png"
+			}
+		},
+		{
+			"name": "Epic Misadventure",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/13_Epic Misadventure.png"
+			}
+		},
+		{
+			"name": "Amani, King of the Litter",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Cat ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/18_Amani, King of the Litter.png"
+			}
+		},
+		{
+			"name": "Cheesed",
+			"rarity": "rare",
+			"mana_cost": "{R/W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/26_Cheesed.png"
+			}
+		},
+		{
+			"name": "Decapitate",
+			"rarity": "rare",
+			"mana_cost": "{W/B}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/27_Decapitate.png"
+			}
+		},
+		{
+			"name": "Hallowed Heartpiercer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/31_Hallowed Heartpiercer.png"
+			}
+		},
+		{
+			"name": "Avatar of Grief",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Incarnation ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/1_Avatar of Grief.png"
+			}
+		},
+		{
+			"name": "Xilotli Spelunker",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Scout ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/17_Xilotli Spelunker.png"
+			}
+		},
+		{
+			"name": "Blitzcrank, Great Steam Golem",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Golem ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/30_Blitzcrank, Great Steam Golem.png"
+			}
+		},
+		{
+			"name": "Contrition",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/3_Contrition.png"
+			}
+		},
+		{
+			"name": "Otherworldly Storyteller",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Alien ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/5_Otherworldly Storyteller.png"
+			}
+		},
+		{
+			"name": "Run for Your Life",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/8_Run for Your Life.png"
+			}
+		},
+		{
+			"name": "Raise Cain",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/22_Raise Cain.png"
+			}
+		},
+		{
+			"name": "Clear the Air",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/15_Clear the Air.png"
+			}
+		},
+		{
+			"name": "Maw of Journey's End",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Creature — Leviathan ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/20_Maw of Journey's End.png"
+			}
+		},
+		{
+			"name": "Uncharted Expedition",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/16_Uncharted Expedition.png"
+			}
+		},
+		{
+			"name": "Death's Door",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/19_Death's Door.png"
+			}
+		},
+		{
+			"name": "Family Bakery",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/4_Family Bakery.png"
+			}
+		},
+		{
+			"name": "Opening Night",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/21_Opening Night.png"
+			}
+		},
+		{
+			"name": "Discern",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/6_Discern.png"
+			}
+		},
+		{
+			"name": "Routine Ransacking",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/23_Routine Ransacking.png"
+			}
+		},
+		{
+			"name": "Ravaged Recollection",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/12_Ravaged Recollection.png"
+			}
+		},
+		{
+			"name": "Cast from Heaven",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/2_Cast from Heaven.png"
+			}
+		},
+		{
+			"name": "Gentlemen's Club",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Room ",
+			"collector_number": "29",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://kinotherapy.github.io/sets/X24-files/img/29_Gentlemen's Club.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Siegebreaker Prototype
+		2 Doldrums Sprite
+		2 Watering Hole
+		2 Amani, King of the Litter
+		2 Cheesed
+		2 Decapitate
+		2 Avatar of Grief
+		2 Blitzcrank, Great Steam Golem
+		2 Raise Cain
+		2 Uncharted Expedition
+		2 Death's Door
+		2 Family Bakery
+		2 Routine Ransacking
+		2 Gentlemen's Club
+		1 Maw of Journey's End
+		[UncommonSlot(3)]
+	9 Persistent Smog
+		9 Volatile Coating
+		9 Eccentric Vendor
+		9 Hallowed Heartpiercer
+		9 Xilotli Spelunker
+		9 Contrition
+		9 Opening Night
+		9 Discern
+		[CommonSlot(10)]
+	30 Desperate Widow
+		30 Nagging Omen
+		30 Epic Misadventure
+		30 Otherworldly Storyteller
+		30 Run for Your Life
+		30 Clear the Air
+		30 Ravaged Recollection
+		30 Cast from Heaven
+		

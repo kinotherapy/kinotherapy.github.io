@@ -1,0 +1,1 @@
+﻿Death's Door	BG	rare	Sorcery	19	BG	1BG	Kicker 2 (You may pay an additional 2 as you cast this spell.)NEWLINEMill three cards. If this spell was kicked, instead search your library for three cards and put them into your graveyard, then shuffle.NEWLINEThen, you may return a card from your graveyard to your hand. Exile Death’s Door.			normal	X24		15 – DEAD

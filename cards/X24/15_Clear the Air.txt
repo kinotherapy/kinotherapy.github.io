@@ -1,0 +1,1 @@
+﻿Clear the Air	G	common	Sorcery	15	G	1G	Choose one –NEWLINE• Target creature you control deals damage equal to its power to target creature you don’t control.NEWLINE• Each creature you control deals damage equal to its power to target creature with flying.			normal	X24		30 – TUMBLE

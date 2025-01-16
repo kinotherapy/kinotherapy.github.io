@@ -1,0 +1,1 @@
+﻿Routine Ransacking	UB	rare	Enchantment – Aura 	23	UB	2UB	Enchant playerNEWLINEAt the beginning of each end step, if you cast a spell that targeted enchanted player this turn, exile the top card of that player’s library and create a Treasure token.You may play that card for as long as it remains exiled.			normal	X24		22 – CROOK

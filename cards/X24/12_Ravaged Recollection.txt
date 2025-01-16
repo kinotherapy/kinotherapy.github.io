@@ -1,0 +1,1 @@
+﻿Ravaged Recollection	B	common	Sorcery	12	B	2B	Target player discards two cards. If two land cards or two nonland cards were discarded this way, create a 1/1 black Spirit creature token with flying.			normal	X24		24 – FORGET

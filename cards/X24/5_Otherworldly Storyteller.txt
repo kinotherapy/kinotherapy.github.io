@@ -1,0 +1,1 @@
+﻿Otherworldly Storyteller	W	common	Creature – Alien 	5	W	2W	Whenever a Human you control enters or dies, you may untap target non-Human creature you control.	2/4		adventure	X24		Earthly Lullaby	W	Instant	W	1W	Create a 1/1 white Human creature token. You gain 2 life. (Then exile this card. You may cast the creature later from exile.)				19 – RHYME

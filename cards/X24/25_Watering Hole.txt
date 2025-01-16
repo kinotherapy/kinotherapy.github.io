@@ -1,0 +1,1 @@
+﻿Watering Hole	WG	rare	Enchantment	25	WG	1GW	At the beginning of your end step, put a +1/+1 counter on each tapped creature you control.			normal	X24		7 – WATER

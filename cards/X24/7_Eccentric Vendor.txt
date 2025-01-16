@@ -1,0 +1,1 @@
+﻿Eccentric Vendor	U	uncommon	Creature – Human Citizen 	7	U	2U	When Eccentric Vendor enters, mill five cards. You may put an artifact card from among them into your hand. If that card has mana value 3 or less, you may put it onto the battlefield instead. If you do, return it to your hand at the beginning of the next end step.	2/2		normal	X24		8 – TRIAL

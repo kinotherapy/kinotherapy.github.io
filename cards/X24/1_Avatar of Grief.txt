@@ -1,0 +1,1 @@
+﻿Avatar of Grief	W	rare	Creature – Incarnation 	1	W	1WW	Vigilance, lifelinkNEWLINEWhenever a creature dealt damage by Avatar of Grief this turn dies, tap Avatar of Grief and put a stun counter on it. (If it would become untapped, remove a stun counter from it instead.)	4/4		normal	X24		16 – ALIVE

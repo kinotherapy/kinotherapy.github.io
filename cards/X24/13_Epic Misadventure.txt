@@ -1,0 +1,1 @@
+﻿Epic Misadventure	R	common	Sorcery	13	R	R	As an additional cost to cost this spell, you may tap an untapped creature you control.NEWLINEEpic Misadventure deals damage to target creature or planeswalker equal to 3 or the tapped creature’s power, whichever is greater.			normal	X24		9 – ERROR

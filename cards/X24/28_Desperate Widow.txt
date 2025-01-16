@@ -1,0 +1,1 @@
+﻿Desperate Widow	WB	common	Creature – Human Citizen 	28	WB	1W/B	T, Sacrifice Desperate Widow: Return to the battlefield tapped another target creature card in your graveyard that was put there from the battlefield this turn.	2/2		normal	X24		3 – MIRRORS

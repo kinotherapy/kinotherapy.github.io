@@ -1,0 +1,1 @@
+﻿Siegebreaker Prototype	R	rare	Artifact – Vehicle 	14	R	1R	Trample, hasteNEWLINEWhenever Siegebreaker Prototype attacks, if it has fewer than three test counters on it, put a test counter on it.NEWLINESiegebreaker Prototype has crew X, where X is 4 minus the number of test counters on it.	5/5		normal	X24		1 – ALPHA

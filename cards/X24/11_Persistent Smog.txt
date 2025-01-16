@@ -1,0 +1,1 @@
+﻿Persistent Smog	B	uncommon	Sorcery	11	B	B	Each player that hasn’t sacrificed a permanent this turn sacrifices a creature.NEWLINEFlashback 2B (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	X24		2 – SMOKE

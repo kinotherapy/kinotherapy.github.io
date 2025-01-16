@@ -1,0 +1,1 @@
+﻿Decapitate	WB	rare	Instant	27	WB	W/B	Cleave 1WB (If you cast this spell for its cleave cost, remove the words in square brackets.)NEWLINEDestroy target creature [with power greater than the number of lands controlled by its controller].			normal	X24		12 – CUT

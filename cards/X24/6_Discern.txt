@@ -1,0 +1,1 @@
+﻿Discern	U	uncommon	Instant	6	U	2U	Untap up to three target artifacts and/or lands. Investigate. (Create a Clue token. It’s an artifact with “2, Sacrifice this artifact: Draw a card.”)NEWLINE3UU, Exile Discern from your graveyard: Sacrifice an artifact. If you do, draw two cards.			normal	X24		20 – REASON

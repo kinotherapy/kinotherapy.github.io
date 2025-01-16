@@ -1,0 +1,1 @@
+﻿Run for Your Life	U	common	Instant	8	U	3U	Choose target creature. If you control it, draw two cards. Then put that creature on top of its owner’s library.			normal	X24		14 – QUICK

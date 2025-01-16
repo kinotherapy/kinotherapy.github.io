@@ -1,0 +1,1 @@
+﻿Xilotli Spelunker	G	uncommon	Creature – Elf Scout 	17	G	G	Whenever a permanent you control enters tapped, you may untap that permanent. Do this only once each turn.NEWLINEDescend 4 – 1G, T: Return target land card from your graveyard to the battlefield tapped. Activate this ability only if there are four or more permanent cards in your graveyard.	1/2		normal	X24		26 – SEEK

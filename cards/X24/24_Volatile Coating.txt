@@ -1,0 +1,1 @@
+﻿Volatile Coating	BR	uncommon	Enchantment – Aura 	24	BR	BR	FlashNEWLINEEnchant creatureNEWLINEWhen Volatile Coating enters the battlefield, discard a card, then draw two cards.NEWLINEWhen enchanted creature is dealt damage, destroy it.			normal	X24		6 – OIL

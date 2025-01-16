@@ -1,0 +1,1 @@
+﻿Cast from Heaven	W	common	Instant	2	W	2W	This spell costs 2 less to cast if it targets a player that committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)NEWLINETarget player sacrifices an attacking or blocking creature.			normal	X24		27 – HEAVEN

@@ -1,0 +1,1 @@
+﻿Nagging Omen	B	common	Sorcery	10	B	B	Target player draws a card, then draws a card for each card named Nagging Omen in your graveyard. That player loses life equal to the number of cards drawn this way.			normal	X24		4 – DOOM
