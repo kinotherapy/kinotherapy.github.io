@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dng8go0xjiqbo"
-path="res://.godot/imported/index.apple-touch-icon.png-4d27ec496bd7ecf4584e814d5ed34e23.ctex"
+uid="uid://djjp5eqbt7m1y"
+path="res://.godot/imported/mora-jai.png-09ac3cab204b5f493e8c9aabe1c66b27.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://web_export/index.apple-touch-icon.png"
-dest_files=["res://.godot/imported/index.apple-touch-icon.png-4d27ec496bd7ecf4584e814d5ed34e23.ctex"]
+source_file="res://web_export_2/mora-jai.png"
+dest_files=["res://.godot/imported/mora-jai.png-09ac3cab204b5f493e8c9aabe1c66b27.ctex"]
 
 [params]
 
